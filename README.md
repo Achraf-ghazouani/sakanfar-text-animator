@@ -1,0 +1,1 @@
+# sakanfar-text-animator
